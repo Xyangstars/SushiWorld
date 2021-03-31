@@ -1,0 +1,17 @@
+body img{
+    width: 20;
+    position:absolute;
+    top: 0;
+    right: 5;
+}
+body{
+    background-color: khaki;
+    
+}
+
+body div img{
+    position:right;
+    width: 20;
+    top: 0;
+    right: 0;
+}

@@ -1,0 +1,49 @@
+h1{
+    font-family: cursive;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    transform: translate( -40%, 1290%);
+}
+
+}
+ul li{
+    font-style: "italic";
+}
+li a{
+    color: green;
+}
+
+
+h4{
+    color:purple
+}
+
+.raw{position:absolute;
+    width: 140px;
+    top: 50%;
+    left: 50%;
+    left:50%;
+    transform: translate(-20%, 50%);
+}
+
+div{
+    transform: translate( 0%, -100%);
+
+}
+
+body{
+    background-image: url(SushiWorld/Sushi3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1060px;
+    background-position: right;
+    background-color: yellowgreen;
+}
+
+.LoveSushi{
+    float: left;
+}
+
+nav ul{
+    list-style: none;
+}
